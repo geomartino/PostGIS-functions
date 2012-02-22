@@ -12,6 +12,6 @@ Change Log
 2012.02.22	- Created on GitHub.
 
 2012.02.22	- Adding function removedecimals.sql
-			- Remove decimals (not rounded) from all coordinates contain in a WKT
-			  geometry (simple or complex)
-			- Usefull to reduce WKT size when no precision is required
+		- Remove decimals (not rounded) from all coordinates contain in a WKT
+		  geometry (simple or complex)
+		- Usefull to reduce WKT size when no precision is required
